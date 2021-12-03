@@ -14,7 +14,7 @@ function bot($method,$datas=[]){
 $id = "1078349914";
 $token = "1441735521:AAG1yYNpEOH_U7JdRT7Pj2_EI1WXlDuHUiE";
 
-
+mkdir("Akil");
 
 
 define('API_KEY',$token);
