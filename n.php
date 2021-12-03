@@ -1,6 +1,6 @@
 <?php
 
-
+echo "akilhdhehehehehhdh";
 //define("TOKEN","1441735521:AAG1yYNpEOH_U7JdRT7Pj2_EI1WXlDuHUiE"); 
 /*
 function bot($method,$datas=[]){
